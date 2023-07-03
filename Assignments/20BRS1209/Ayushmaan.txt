@@ -1,0 +1,9 @@
+﻿After seeing the yearly distribution of each type of application, we will now see the state-wise distribution of corporate applications. Here we can see that corporations are favoring Florida, California, and New York which is due to several reasons like proximity to tech services or low tax rates. Some of the states in the visualization don't have a label as they have less than a percentage of the applications.
+
+
+Here, we have a visualization for applications with planned wage distribution with the same top 2 candidates and Texax. As mentioned before, some of the states haven't been shown due to having less than a percentage of the applications.
+
+
+
+
+Similarly, we have a visualization for high-propensity applications which is just both of the aforementioned visualizations combined and show California, Florida and New York as the leaders.
